@@ -1,11 +1,5 @@
-// Class BST.java
 // Textbook, Listing 25.5, Page 937
 // Name: <Ibrahima Diallo>
-// Class: CS 3305/Section-04
-// Term: Spring 2023
-// Instructor: Dr. Haddad
-// Assignment: 6
-// IDE Name: <IntelliJ>
 public class BST<E extends Comparable<E>> extends AbstractTree<E> {
     protected TreeNode<E> root;
     protected int size = 0;
