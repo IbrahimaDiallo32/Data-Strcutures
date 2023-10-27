@@ -1,9 +1,3 @@
-// Name: <Ibrahima Diallo>
-// Class: CS 3305/Section-04
-// Term: Spring 2023
-// Instructor: Dr. Haddad
-// Assignment: 6
-// IDE Name: <IntelliJ>
 import java.util.*;
 public class MyTestBST {
 
