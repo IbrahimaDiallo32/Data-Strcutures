@@ -1,9 +1,4 @@
 // Name: <Ibrahima Diallo>
-// Class: CS 3305/04
-// Term: Spring 2023
-// Instructor: Dr. Haddad
-// Assignment: 7
-// IDE Name: <IntelliJ>
 import java.util.*;
 class TestPQH {
     public static void main(String[] args) {
