@@ -1,10 +1,4 @@
 // Name: <Ibrahima Diallo>
-// Class: CS 3305/04
-// Term: Spring 2023
-// Instructor: Dr. Haddad
-// Assignment: 7
-// IDE Name: <IntelliJ>
-// Class Heap.java
 // Textbook - Listing 23.9, Page 878
 
 public class TestHeapSort {
