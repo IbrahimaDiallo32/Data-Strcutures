@@ -1,10 +1,3 @@
-// Name: <Ibrahima Diallo>
-// Class: CS 3305/Section-04
-// Term: Spring 2023
-// Instructor: Dr. Haddad
-// Assignment: 5
-// IDE Name: <IntelliJ>
-
 public class Queue <T> {
     Node<T> head;
     Node<T> tail;
