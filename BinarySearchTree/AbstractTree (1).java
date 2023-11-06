@@ -1,5 +1,4 @@
 // Class AbstrcatTree.java
-// Textbook, Listing 25.4, Page 936
 
 public abstract class AbstractTree<E> implements Tree<E> {
   @Override /** Inorder traversal from the root*/
