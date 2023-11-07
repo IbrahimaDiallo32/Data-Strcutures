@@ -1,9 +1,3 @@
-// Name: <Ibrahima Diallo>
-// Class: CS 3305/Section-04
-// Term: Spring 2023
-// Instructor: Dr. Haddad
-// Assignment: 8
-// IDE Name: <IntelliJ>
 import java.util.*;
 public class HashFunctions {
     public static int extractDigit(int x, int place) {// takes in place, if place is 1 it will be the ones place
@@ -153,7 +147,7 @@ public class HashFunctions {
                     "1. Run HF1 (Division method with Linear Probing)\n" +
                     "2. Run HF2 (Division method with Quadratic Probing)\n" +
                     "3. Run HF3 (Division method with Double Hashing)\n" +
-                    "4. Run HF4 (Student Designed HF)\n" +
+                    "4. Run HF4 (Personal Designed HF)\n" +
                     "5. Exit program\n\n" +
                     "Enter option number: ");
             try{
