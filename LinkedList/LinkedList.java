@@ -1,10 +1,3 @@
-// Name: <Ibrahima Diallo>
-// Class: CS 3305/Section-04
-// Term: Spring 2023
-// Instructor: Dr. Haddad
-// Assignment: 3
-// IDE Name: <IntelliJ>
-
 public class LinkedList
 {
     public Node head, tail;
@@ -27,8 +20,6 @@ public class LinkedList
             tail = tail.next; //make tail pointer points to last node
         }
     }
-
-    //======== Your part to complete for this assignment =========
 
     //This will create a new node, point that node to the current head then re-assign that node as the head
     public void addFirstNode(int data)
@@ -72,7 +63,6 @@ public class LinkedList
             System.out.println("List is Empty");
             return;
         }
-
         head = head.next;
     }
 
@@ -145,8 +135,6 @@ public class LinkedList
         printInReverse(L.next);
         System.out.print(L.data + "    ");
     }
-
-    //================= end of your part ==============
 
     //method to print out the list
     public void printList()
